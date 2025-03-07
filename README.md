@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JINBUEM&fontSize=90)
-<div align=center><h1>군대갑니다...전역하고 만나요...</h1></div>
 
 <div align=center>
   
