@@ -22,5 +22,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=jin7942&theme=dark&locale=ko&short_numbers=true)](https://git.io/streak-stats)
 
 # 연락처
-- Email: jinbeom.kim01@gmail.com
+- Email: iam@jin7942.dev
 - GitHub: [@jin7942](https://github.com/jin7942)
